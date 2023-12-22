@@ -1,5 +1,5 @@
 # Real_Time_Weather_Information
-The simple and without GUI weather app and I use [openweather](https://openweathermap.org/) API.
+The simple and with GUI weather app and I use [openweather](https://openweathermap.org/) API.
 # Install the requirements
 First you should install the requirements:
 ```
